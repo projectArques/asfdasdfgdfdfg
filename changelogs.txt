@@ -1,1 +1,20 @@
-- FINALLY FUCKING UPDATED HOLY FUCK
+- Added BodyParts Checking
+- Added Custom Entities 
+- Made Triggerbot Use The BodyParts Checking
+- Made RaycastEngine Better
+- Added AntiAfk
+- Added Desync
+- Added DisplayFps
+- Added FpsCaps
+- Added FreezePlayer
+- Added Vc Bypass
+- Updated Rapid Fire
+- Fixed Triggerbot
+- Fixed all the exploit Features
+- Fixed the Tracer When turning off K lock dont work for silent aim
+
+**Made the Installer run as admin Since no one knew please install the new installer if you want I suggest it**
+
+- Made the Installer UI More Cleaner And Better
+
+**Wait a Few Minutes for the site to update when it updates you should see Rose.wtf version 1.0.3 and not 1.0.2**
